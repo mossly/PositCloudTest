@@ -13,7 +13,7 @@ ui <- fluidPage(
                   "Number of bins:",
                   min = 1,
                   max = 50,
-                  value = 30)
+                  value = 25)
     ),
     
     position = "right",
